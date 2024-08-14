@@ -1,4 +1,4 @@
-<!-- A huge collection of Rofi themes -->
+g<!-- A huge collection of Rofi themes -->
 
 <p align="center">
   <img src="previews/logo.png">
